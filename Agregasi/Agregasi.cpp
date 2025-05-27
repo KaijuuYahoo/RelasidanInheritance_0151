@@ -23,5 +23,6 @@ int main(){
     delete varIbu;
     delete varIbu2;
     delete varAnak1;
-    delete va
+    delete varAnak2;
+    delete varAnak3;
 }
