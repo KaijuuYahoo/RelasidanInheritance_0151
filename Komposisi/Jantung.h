@@ -1,4 +1,4 @@
-#ifndef IBU_H
+#ifndef JANTUNG_H
 #define IBU_H
 #include <iostream>
 #include <string>
